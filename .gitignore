@@ -1,0 +1,12 @@
+/.settings
+/.project
+/.idea
+/.buildpath
+/vendor
+phpunit.xml
+composer.phar
+satis.phar
+web
+.idea
+vendor
+composer.lock

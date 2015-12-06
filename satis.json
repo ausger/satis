@@ -1,0 +1,11 @@
+{
+  "name": "AUSGER composer repository",
+  "homepage": "http://http://ausger.satis:8888/",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/ausger/myporto.git"
+    }
+  ],
+  "require-all": true
+}
