@@ -5,6 +5,10 @@
     {
       "type": "vcs",
       "url": "https://github.com/ausger/myporto.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/ausger/onestepcheckout-v340.git"
     }
   ],
   "require-all": true
