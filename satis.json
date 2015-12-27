@@ -9,6 +9,10 @@
     {
       "type": "vcs",
       "url": "https://github.com/ausger/onestepcheckout-v340.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/ausger/Dhl_Intraship.git"
     }
   ],
   "require-all": true
