@@ -17,6 +17,10 @@
     {
       "type": "vcs",
       "url": "https://github.com/riconeitzel/German_LocalePack_de_DE.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/ausger/disable-compare.git"
     }
   ],
   "require-all": true
