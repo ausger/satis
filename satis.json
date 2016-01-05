@@ -30,6 +30,14 @@
     {
       "type": "vcs",
       "url": "https://github.com/aschroder/Magento-SMTP-Pro-Email-Extension.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/GordonLesti/Lesti_Fpc.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/colinmollenhour/Cm_Cache_Backend_Redis.git"
     }
   ],
   "require-all": true
