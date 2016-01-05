@@ -21,6 +21,15 @@
     {
       "type": "vcs",
       "url": "https://github.com/ausger/disable-compare.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/AOEpeople/Aoe_Scheduler.git"
+
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/aschroder/Magento-SMTP-Pro-Email-Extension.git"
     }
   ],
   "require-all": true

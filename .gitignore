@@ -8,5 +8,7 @@ composer.phar
 satis.phar
 web
 .idea
+web_backup
 vendor
 composer.lock
+.git_original
