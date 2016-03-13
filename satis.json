@@ -38,7 +38,84 @@
     {
       "type": "vcs",
       "url": "https://github.com/colinmollenhour/Cm_Cache_Backend_Redis.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/ausger/magento-alipay.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/ausger/matrixshippingrate.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/integer-net/Autoshipping.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/firegento/firegento-pdf.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/magento-hackathon/FireGento_FlexCms.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/magento-hackathon/AsyncIndex.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/magento-hackathon/E-MailPreview.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/magento-hackathon/MageTrashApp.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/magento-hackathon/layered-landing.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/magento-hackathon/Sandfox_GeoIP.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/magento-hackathon/EAVCleaner.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/magento-hackathon/HoneySpam.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/aligent/Inchoo_MaxOrderAmount.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/AOEpeople/Aoe_Profiler.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/fbrnc/Aoe_JsCssTstamp.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/fbrnc/Aoe_QuoteCleaner.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/fooman/speedsteradvanced.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/nexcess/magento-turpentine.git"
     }
+
   ],
   "require-all": true
 }
