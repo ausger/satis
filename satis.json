@@ -77,11 +77,7 @@
     },
     {
       "type": "vcs",
-      "url": "https://github.com/magento-hackathon/layered-landing.git"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/magento-hackathon/Sandfox_GeoIP.git"
+      "url": "https://github.com/ausger/juicy_geoip.git"
     },
     {
       "type": "vcs",
@@ -114,6 +110,18 @@
     {
       "type": "vcs",
       "url": "https://github.com/nexcess/magento-turpentine.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/ausger/Aschroder_SetStartOrderNumber-0.3.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/AOEpeople/Aoe_TemplateHints.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/ausger/EUCookieLawBanner.git"
     }
 
   ],
