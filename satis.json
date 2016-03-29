@@ -37,6 +37,10 @@
     },
     {
       "type": "vcs",
+      "url": "https://github.com/steverobbins/Magento-Redismanager.git"
+    },
+    {
+      "type": "vcs",
       "url": "https://github.com/colinmollenhour/Cm_Cache_Backend_Redis.git"
     },
     {
@@ -122,8 +126,11 @@
     {
       "type": "vcs",
       "url": "https://github.com/ausger/EUCookieLawBanner.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/astorm/LayoutViewer.git"
     }
-
   ],
   "require-all": true
 }
