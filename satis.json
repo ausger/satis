@@ -130,6 +130,10 @@
     {
       "type": "vcs",
       "url": "https://github.com/astorm/LayoutViewer.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/ausger/SphinxSearch.git"
     }
   ],
   "require-all": true
