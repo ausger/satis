@@ -134,6 +134,10 @@
     {
       "type": "vcs",
       "url": "https://github.com/ausger/SphinxSearch.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/ausger/magento-autocomplete.git"
     }
   ],
   "require-all": true
