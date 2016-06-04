@@ -146,7 +146,16 @@
     {
       "type": "vcs",
       "url": "https://github.com/obukhow/AdaptiveResize.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/ausger/GoogleCurrency.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/firegento/firegento-magesetup.git"
     }
+
   ],
   "require-all": true
 }
